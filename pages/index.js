@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Teste novo. Resolução aplicada</h1>
+      <h1>Olá. Resolução aplicada</h1>
     </div>
   );
 }
